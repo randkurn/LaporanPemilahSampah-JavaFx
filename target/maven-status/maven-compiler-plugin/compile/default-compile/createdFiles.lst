@@ -1,0 +1,4 @@
+model\SampahModel.class
+Main.class
+controller\HomePageController.class
+controller\SampahController.class
