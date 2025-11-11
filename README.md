@@ -120,12 +120,9 @@ The project is titled **“Waste Sorting Report”**, designed to help users rec
 ## 🖼️ Preview Screenshot
 Tambahkan tangkapan layar aplikasi di bawah ini untuk dokumentasi GitHub Anda:
 
-```
-📸 Screenshot:
-└── /
-    ├── Screenshot1.png
-    ├── Screenshot2.png
-```
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
+
 
 ---
 
