@@ -132,4 +132,4 @@ Feel free to fork and modify — just include credit to the original author.
 
 ---
 
-**© 2025 Muhammad Randy Kurniawan — Universitas Pendidikan Indonesia (UPI) Purwakarta**
+Developer notes: readme.md ini dibuat dengan bantuan AI untuk hasil yang lebih sempurna
